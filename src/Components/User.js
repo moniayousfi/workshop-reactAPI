@@ -5,6 +5,7 @@ import React from 'react'
         <div>
           <span>{user.name}</span> 
           <span>{user.email}</span> 
+          
         </div>
     )
 }
